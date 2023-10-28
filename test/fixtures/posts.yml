@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: MyString
+  title: MyString
+  description: MyText
+  category: MyString
+  creation_time: 2023-10-28 12:11:14
+  zipcode: MyString
+
+two:
+  user: MyString
+  title: MyString
+  description: MyText
+  category: MyString
+  creation_time: 2023-10-28 12:11:14
+  zipcode: MyString
